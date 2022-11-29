@@ -6,4 +6,5 @@ José Francisco Ruvalcaba Castañeda
   Guadalajara Design Center
 ```
 
-#OneIntelTeam #IAmIntel
+#OneIntelTeam 
+#IAmIntel
